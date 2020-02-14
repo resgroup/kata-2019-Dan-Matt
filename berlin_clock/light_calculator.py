@@ -44,10 +44,14 @@ class BerlinClock:
 		return light_string
 
 	def calculate_1_minute_lights(self):
-		remainder_minutes = int(self.date_time.minute % 5)
+		return self.calculate_row_lights(4,'Y',self.date_time.minute % 5)
+
+
+	def calculate_row_lights(self, number_lights, light_colour,time_number):
 		light_string = ''
-		for i in range(0,remainder_minutes):
-			light_string += 'Y'
-		while len(light_string) < 4:
+		for i in range(0,time_number):
+			light_string += light_colour
+		while len(light_string) < number_lights:
 			light_string += 'O'
+
 		return light_string

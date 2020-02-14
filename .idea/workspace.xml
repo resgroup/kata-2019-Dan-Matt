@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc5bfbd5-2ffe-4fe0-8b16-3dc3a2d4b067" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/problem_sovler/solution_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/problem_sovler/solution_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/problem_sovler/solution_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/berlin_clock/light_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/test_solution_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_solution_calculator.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,17 +17,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/test_solution_calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="187">
+              <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/problem_sovler/solution_calculator.py">
+        <entry file="file://$PROJECT_DIR$/berlin_clock/light_calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            <state relative-caret-position="331">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -42,8 +43,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tests/test_solution_calculator.py" />
         <option value="$PROJECT_DIR$/problem_sovler/solution_calculator.py" />
+        <option value="$PROJECT_DIR$/tests/test_solution_calculator.py" />
+        <option value="$PROJECT_DIR$/berlin_clock/light_calculator.py" />
       </list>
     </option>
   </component>
@@ -79,7 +81,7 @@
             <path>
               <item name="kata-2019-Dan-Matt" type="b2602c69:ProjectViewProjectNode" />
               <item name="kata-2019-Dan-Matt" type="462c0819:PsiDirectoryNode" />
-              <item name="problem_sovler" type="462c0819:PsiDirectoryNode" />
+              <item name="berlin_clock" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kata-2019-Dan-Matt" type="b2602c69:ProjectViewProjectNode" />
@@ -154,28 +156,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="pytest_for_test - 2020.02.13 at 13h 55m 32s.xml">
-      <configuration name="pytest for test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test - 2020.02.13 at 14h 04m 35s.xml">
-      <configuration name="pytest in test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_tests - 2020.02.13 at 14h 04m 59s.xml">
-      <configuration name="pytest in tests" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_tests - 2020.02.13 at 14h 05m 36s.xml">
-      <configuration name="pytest in tests" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_tests - 2020.02.13 at 14h 06m 02s.xml">
-      <configuration name="pytest in tests" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_tests - 2020.02.13 at 14h 06m 43s.xml">
-      <configuration name="pytest in tests" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_tests - 2020.02.13 at 14h 07m 07s.xml">
-      <configuration name="pytest in tests" configurationId="tests" />
-    </history-entry>
     <history-entry file="pytest_in_tests - 2020.02.14 at 08h 07m 38s.xml">
+      <configuration name="pytest in tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_tests - 2020.02.14 at 09h 47m 22s.xml">
+      <configuration name="pytest in tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_tests - 2020.02.14 at 10h 22m 53s.xml">
+      <configuration name="pytest in tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_tests - 2020.02.14 at 10h 23m 51s.xml">
+      <configuration name="pytest in tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_tests - 2020.02.14 at 10h 24m 20s.xml">
+      <configuration name="pytest in tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_tests - 2020.02.14 at 10h 25m 19s.xml">
+      <configuration name="pytest in tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_tests - 2020.02.14 at 10h 26m 30s.xml">
+      <configuration name="pytest in tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_tests - 2020.02.14 at 10h 28m 52s.xml">
+      <configuration name="pytest in tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_tests - 2020.02.14 at 10h 29m 15s.xml">
+      <configuration name="pytest in tests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_tests - 2020.02.14 at 10h 47m 59s.xml">
       <configuration name="pytest in tests" configurationId="tests" />
     </history-entry>
   </component>
@@ -188,7 +196,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.53412783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -205,15 +213,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tests/test_solution_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="187">
+          <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/problem_sovler/solution_calculator.py">
+    <entry file="file://$PROJECT_DIR$/berlin_clock/light_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        <state relative-caret-position="331">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
